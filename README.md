@@ -27,5 +27,8 @@
 * #docker-componse up 
 * #docker-compose down
 * #docker-compose down --rmi all --v #remove all containers and images
-* 
-* 
+* sudo docker build -t hakeemullahjan/myapi .
+* docker login 
+* docker push hakeemullahjan/myapi
+* docker pull thenetninjauk/myapi
+* https://hub.docker.com/r/hakeemullahjan/myapi
